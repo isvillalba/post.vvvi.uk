@@ -1,12 +1,12 @@
-baseURL = "https://post.villalba.is.eu.org/"
-title = "post.villalba.is.eu.org"
+baseURL = "https://post.vvvi.uk/"
+title = "post.vvvi.uk"
 languageCode = "en"
 defaultContentLanguage = "es"
 
 # this will be included in the footer after the current year the site is last
 # built, followed by the (c) symbol
 # you can use markdown inside this field
-copyright = "Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)"
+copyright = "Algunos derechos reservados - [GPL3.0](https://post.vvvi.uk/license)"
 
 pagination.pagerSize = 5  # number of articles per page in the index
 summaryLength = 70  # number of words for article summaries
