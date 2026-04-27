@@ -139,13 +139,13 @@ summaryLength = 70  # number of words for article summaries
      [[menu.icons]]
          identifier = "github"
          name = "GitHub"
-         url = "https://github.com/vvvsc/villalba.is"
+         url = "https://github.com/isvillalba/post.vvvi.uk"
          weight = 10
-     [[menu.icons]]
-         identifier = "foro"
-         name = "Foro"
-         url = "https://lacorte.zya.me"
-         weight = 20
+#     [[menu.icons]]
+#         identifier = "foro"
+#         name = "Foro"
+#         url = "https://lacorte.zya.me"
+#         weight = 20
 
 # this section is necessary if you want infinite scrolling
 # it allows to output the article list as paged JSON so that "pages" can be retrieved via javascript
