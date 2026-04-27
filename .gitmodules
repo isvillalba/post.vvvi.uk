@@ -1,6 +1,0 @@
-[submodule "content"]
-	path = content
-	url = https://github.com/FriendsAtDawn/content.git
-[submodule "static"]
-	path = static
-	url = https://github.com/3v2i/static.git
