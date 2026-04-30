@@ -10,7 +10,6 @@ slug: "asueto-y-plazos"
 tags: ["derecho procesal", "CSJ", "plazos", "asueto"]
 categories: ["Derecho Procesal", "Opinión"]
 keywords: ["plazos procesales", "asueto judicial", "CSJ Paraguay", "cómputo de plazos"]
-cover: "/images/asueto-plazos.jpg"
 toc: true
 summary: "Aunque parezca una redundancia menor, la reiteración en los decretos de asueto puede afectar la interpretación de los plazos procesales y generar inseguridad jurídica."
 ---
