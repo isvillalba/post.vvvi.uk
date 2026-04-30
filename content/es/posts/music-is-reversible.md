@@ -3,42 +3,35 @@ title: "Music is reversible."
 description: "Time isn't."
 draft: false
 date: 2025-02-11
-tags: ["sources:ongoing", "proof:partial", "caducidad", "instancia"]
-slug: "time-is-not"
+tags: ["sources:ongoing", "proof:partial", "repetición", "plazos"]
+slug: "is-repetition"
 ---
 
-# Dear CSJ.
+# La reiteración en los decretos de asueto y su impacto en los plazos procesales
 
-Repetidas veces he observado el siguiente patrón
+En varias ocasiones la Corte Suprema de Justicia (CSJ) ha declarado días de asueto, estableciendo que los plazos que vencen en esa fecha se trasladarán al siguiente día hábil. Esta práctica, aunque correcta en términos generales, presenta redundancias y posibles confusiones.
 
-1. Declaran asueto el día $x$.
+## Marco normativo
 
-2. Declaran que los plazos que vencen el día $x$ vencerán el día siguiente hábil.
+El **Código Procesal Civil paraguayo** (art. 149) establece que los plazos que vencen en día inhábil se trasladan automáticamente al siguiente día hábil. Por tanto, cuando el tribunal decreta un asueto total, la regla ya está prevista en la ley y no requiere reiteración expresa.
 
-Lo cual es enteramente cierto.
+En cambio, en los **asuetos parciales** —cuando la jornada laboral se interrumpe antes de completarse— la CSJ ha considerado que resulta injusto que un plazo venza en un día con actividad reducida. En esos casos, la disposición de trasladar los vencimientos al día hábil siguiente sí tiene sentido práctico.
 
-## Pero de donde procede la repetición en la manera de contar los plazos?
+## Análisis lógico y jurídico
 
-En un tiempo, la CSJ solía decretar un asueto parcial. Digamos el día $x$ solo se trabajara hasta las 11:00.
+La repetición en las resoluciones puede clasificarse en distintos tipos de errores o falacias:
 
-Con mucho tino la CSJ considero que era un injusto que plazo alguno venciera ese día, pues la jornada no se había completado. Por lo que ideó que los plazos que vencieran el día $x$ vencieran el día siguiente hábil.
+- **Falsa presuposición**: se asume que es necesario extender plazos en un asueto total, cuando la norma ya lo prevé.
+- **Redundancia o pleonasmo**: la disposición repite lo que está regulado por el Código, sin aportar novedad.
+- **Apelación a la tradición (argumentum ad antiquitatem)**: mantener la fórmula “porque siempre se ha hecho así” sin evaluar su pertinencia actual.
 
-Pero si el día $x$ no se trabaja en absoluto, es inútil indicar que los plazos vencerán el siguiente día hábil. Eso está en el Código. 
+## Implicancias prácticas
 
-Comprendo que la redacción queda y muchas veces ya no hay tiempo de corregir minucias. Pero la vana repetición no es inocua y puede mover a error.
+Aunque pueda parecer una minucia, la redacción repetitiva no es inocua. En derecho procesal, la precisión es fundamental: una frase innecesaria puede abrir la puerta a interpretaciones erróneas, recursos improcedentes o dilaciones innecesarias.
 
-## Qué pasó.
+La doctrina procesal insiste en que la **seguridad jurídica** depende de la claridad normativa. Una resolución que introduce redundancias puede generar incertidumbre en los litigantes y operadores jurídicos, afectando el principio de economía procesal.
 
-Es inútil clasificar un error de lógica, sea lo que fuera que sea eso. Hay una forma de estar en lo cierto y $n$ formas de equivocarse.
+## Conclusión
 
-De cualquier manera:
-
-*   Falsa presuposición: Este error ocurre cuando un argumento asume algo como cierto que no lo es. En el caso, la orden de extender los plazos en los asuetos *totales* presupone incorrectamente que el asueto afectará la capacidad de presentar documentos, cuando el tribunal está cerrado todo el día. Es decir, la orden asume que existe una necesidad de extender el plazo, cuando en realidad no la hay, porque el tribunal está cerrado.
-
-*   Redundancia o pleonasmo: Aunque no es un error lógico formal, la frase puede considerarse redundante porque ya es una norma general que los plazos que vencen en un día inhábil se trasladan al siguiente día hábil. La locución explícita en la orden se vuelve innecesaria y repetitiva.
-
-*   Apelar a la tradición (Argumentum ad antiquitatem): Si la Corte mantiene la frase solo porque "siempre se ha hecho así", incluso cuando ya no tiene sentido, podría considerarse una apelación a la tradición. Este error ocurre cuando se defiende una acción o creencia simplemente porque es una costumbre arraigada, sin considerar si es lógica o necesaria en el presente.
-
-Creo que la tradición es lo que más peso tiene en esa enumeración.
-
+La práctica de reiterar disposiciones ya contenidas en la ley refleja más una cuestión de tradición que de necesidad jurídica. Para fortalecer la seguridad jurídica, sería recomendable que las resoluciones de la CSJ se limiten a lo estrictamente necesario, evitando redundancias que puedan oscurecer la interpretación de las normas.
 
