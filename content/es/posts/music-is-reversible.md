@@ -1,13 +1,19 @@
 ---
-title: "Music is reversible."
-description: "Time isn't."
-draft: false
+title: "La reiteración en los decretos de asueto y su impacto en los plazos procesales"
+subtitle: "Cuando lo trivial puede complicar el cómputo de plazos"
+description: "Análisis sobre cómo las resoluciones de la CSJ al declarar asuetos pueden generar confusión en el cómputo de plazos procesales."
+author: "Wilson Villalba"
 date: 2025-02-11
-tags: ["sources:ongoing", "proof:partial", "repetición", "plazos"]
-slug: "is-repetition"
+lastmod: 2025-02-11
+draft: false
+slug: "asueto-y-plazos"
+tags: ["derecho procesal", "CSJ", "plazos", "asueto"]
+categories: ["Derecho Procesal", "Opinión"]
+keywords: ["plazos procesales", "asueto judicial", "CSJ Paraguay", "cómputo de plazos"]
+cover: "/images/asueto-plazos.jpg"
+toc: true
+summary: "Aunque parezca una redundancia menor, la reiteración en los decretos de asueto puede afectar la interpretación de los plazos procesales y generar inseguridad jurídica."
 ---
-
-# La reiteración en los decretos de asueto y su impacto en los plazos procesales
 
 En varias ocasiones la Corte Suprema de Justicia (CSJ) ha declarado días de asueto, estableciendo que los plazos que vencen en esa fecha se trasladarán al siguiente día hábil. Esta práctica, aunque correcta en términos generales, presenta redundancias y posibles confusiones.
 

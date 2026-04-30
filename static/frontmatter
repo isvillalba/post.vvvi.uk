@@ -1,0 +1,17 @@
+---
+title: "Título claro y descriptivo"
+subtitle: "Opcional: un subtítulo breve que complemente el título"
+description: "Resumen conciso de la entrada, útil para SEO y para que el lector entienda de qué trata."
+author: "Tu nombre o seudónimo"
+date: 2025-02-11
+lastmod: 2025-02-11
+draft: false
+slug: "url-amigable-del-post"
+tags: ["tema principal", "categoría secundaria", "palabra clave"]
+categories: ["Derecho Procesal", "Opinión", "Divulgación"]
+keywords: ["plazos procesales", "CSJ", "asueto", "jurisprudencia"]
+series: ["Serie de artículos si corresponde"]
+cover: "images/portada.jpg" # opcional, imagen destacada
+toc: true # para habilitar tabla de contenidos automática
+summary: "Un párrafo breve que se muestra en listados o vistas previas."
+---
