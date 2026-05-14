@@ -4,7 +4,7 @@ layout: search
 outputs:
  - "html"
  - "json"
-norss: true
-nosearch: true
+norss: false
+nosearch: false
 comments: false
 ---
