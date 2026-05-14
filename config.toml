@@ -19,7 +19,7 @@ summaryLength = 70  # number of words for article summaries
 
     posts = "posts"  # content directory where to find home page posts; default searches in "posts" and "post"
     showPostsLink = true  # show or hide the link to the simple post list
-    extraContentDirs = ["plra", "otros", "modelos", "about", "links", "jurisprudencia"]  # other content directories to render similarly to the home page
+    extraContentDirs = ["plra", "otros", "modelos", "about", "links", "juris"]  # other content directories to render similarly to the home page
     showcaseDir = "showcase"  # create a content directory that shows a special showcase section in the home page
 
     # shows a specified single page as a home page, instead of the traditional articles list
@@ -36,7 +36,7 @@ summaryLength = 70  # number of words for article summaries
     svgicon = "/logo.svg"
     icon512 = "/icon512.png"  # 512x512 png image
 
-    logoRightOfTitle = false  # positions the logo to the right of the title; default: false
+    logoRightOfTitle = true  # positions the logo to the right of the title; default: false
 
     showTags = true  # show the Tags menu item; default true
     showRss = true  # show the link for the RSS feed; default true
