@@ -1,0 +1,61 @@
+<button class="plus">+</button>
+<span class="count">0</span>
+
+<script>
+(() => {
+
+  const slug = "{{ .RelPermalink }}"
+
+  const STORAGE_KEY =
+    `liked:${slug}`
+
+  const API =
+    `https://likes-worker.villalbais.workers.dev?id=${slug}`
+
+  const plus =
+    document.currentScript.previousElementSibling.previousElementSibling
+
+  const count =
+    document.currentScript.previousElementSibling
+
+  async function load() {
+
+    const r = await fetch(API)
+    const d = await r.json()
+
+    count.textContent = d.total
+
+    // Ya votó
+    if (localStorage.getItem(STORAGE_KEY)) {
+      plus.disabled = true
+      plus.textContent = "✓"
+    }
+  }
+
+  async function add() {
+
+    // doble seguridad frontend
+    if (localStorage.getItem(STORAGE_KEY)) {
+      return
+    }
+
+    const r = await fetch(API, {
+      method: "POST"
+    })
+
+    const d = await r.json()
+
+    count.textContent = d.total
+
+    localStorage.setItem(STORAGE_KEY, "1")
+
+    plus.disabled = true
+    plus.textContent = "✓"
+  }
+
+  plus.onclick = add
+
+  load()
+
+})()
+</script>

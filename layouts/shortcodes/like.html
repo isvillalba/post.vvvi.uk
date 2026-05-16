@@ -1,0 +1,42 @@
+<!-- layouts/shortcodes/like.html -->
+
+<button class="plus">+</button>
+<span class="count">0</span>
+
+<script>
+(() => {
+
+  const slug = "{{ .Page.RelPermalink }}"
+
+  const API =
+    `https://tu-worker.workers.dev?id=${slug}`
+
+  const plus =
+    document.currentScript.previousElementSibling.previousElementSibling
+
+  const count =
+    document.currentScript.previousElementSibling
+
+  async function load() {
+    const r = await fetch(API)
+    const d = await r.json()
+
+    count.textContent = d.total
+  }
+
+  async function add() {
+    const r = await fetch(API, {
+      method: "POST"
+    })
+
+    const d = await r.json()
+
+    count.textContent = d.total
+  }
+
+  plus.onclick = add
+
+  load()
+
+})()
+</script>
