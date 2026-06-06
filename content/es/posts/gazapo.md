@@ -20,21 +20,18 @@ La Corte Suprema de Justicia ha sido consultada repetidas veces sobre qué const
 
 > "errores de copia o meramente aritméticos, equívocos referentes a nombres y calidades de las partes"
 
-Ref: [A.I. Nº 756 del 18 de noviembre de 2022](https://res.vyllalba.uk/94163.pdf), dictado en el expediente *COOPERATIVA CHORTITZER LTDA. C/ RES. NRO. 7930007082/19 DEL 26 DE DICIEMBRE Y OTRA DICTADAS POR LA SUBSECRETARÍA DE ESTADO DE TRIBUTACIÓN*, Nro. 659 — Año 2021.
+Ref: [A.S. Nº 756 del 18 de noviembre de 2022](https://res.vyllalba.uk/94163.pdf), dictado en el expediente *COOPERATIVA CHORTITZER LTDA. C/ RES. NRO. 7930007082/19 DEL 26 DE DICIEMBRE Y OTRA DICTADAS POR LA SUBSECRETARÍA DE ESTADO DE TRIBUTACIÓN*, Nro. 659 — Año 2021.
 
-Esta caracterización ha adquirido cierta estabilidad en decisiones posteriores. El A.I. Nº 1136 del 26 de diciembre de 2022 https://res.vyllalba.uk/95489.pdf amplió la noción de modo más sistemático:
+Esta caracterización ha adquirido cierta estabilidad en decisiones posteriores. Si bien el [A.S. Nº 1231 del 04 de diciembre de 2020](https://res.vyllalba.uk/84134.pdf) ya había caracterizado la noción de modo más sistemático:
 
 > "constituyen errores materiales, en términos de la disposición, los errores de copia o aritméticos, los equívocos en que hubiese incurrido el juez acerca de los nombres y calidades de las partes, y la contradicción que pudiere existir entre los considerandos y la parte dispositiva"
-
-Ref: A.I. Nº 1136 del 26 diciembre de 2022, dictado en el juicio *MUNICIPALIDAD DE ASUNCIÓN CONTRA NOTA Nº 5429 DEL 20/NOV/2020, DICTADA POR LA CONTRALORIA GENERAL DE LA REPÚBLICA*.
 
 Esta fórmula se ha replicado desde entonces en una serie de decisiones consistentes:
 
 1. *Ostaciano Lopez Gonzalez Y Otros S/ Estafa Y Otro*, A.I. Nº 1034 del 5 de diciembre de 2022.
 2. *Pedro Antonio Galeano Valdez Y Otros S/estafa*, A.S. Nº 891 del 22 de diciembre de 2022.
-3. *Juan José Bernis C/ Res. Nro. 010-025 De Fecha 04/02/16 Dictada Por El Instituto De Previsión Social*, [Nro. 456 — Año 2017](https://res.vyllalba.uk/94562.pdf).
+3. *Juan José Bernis C/ Res. Nro. 010-025 De Fecha 04/02/16 Dictada Por El Instituto De Previsión Social*, Nro. 456 — Año 2017.[A.S. 818 del año 2022](https://res.vyllalba.uk/94562.pdf).
 4. *Leda Mabel Lorenz Moran C/ Municipalidad De Iruña 5/ Demanda Contencioso Administrativa Y Solicitud De Medida Cautelar De Urgencia*, [A.S. Nº 820 del 15 de diciembre de 2022](https://res.vyllalba.uk/94564.pdf).
-5. *Chep Technology Pyty Limited Contra Resolucion Nro. 534 De Fecha 18 De Noviembre De 2019, Dictada Por La DINAPI*, Expt. de la C.S.J. Nro. 48/20, A.S. Nº 879 del 29 de diciembre de 2022.
 
 En cada ocasión, la caracterización permanece substancialmente idéntica.
 
@@ -63,4 +60,4 @@ La jurisprudencia paraguaya, a través de estas decisiones reiteradas, ha lograd
 
 #### Nota sobre los links
 
-Las referencias que contienen links han sido verificadas, me disculpo diciendo que el artículo lo escribí cuando mi base de datos no estaba completa así que pueden haber error. Posteriores correcciones serán necesarias.
+Las referencias que contienen links han sido verificadas, me disculpo diciendo que el artículo lo escribí cuando mi base de datos no estaba completa así que pueden haber error. Posteriores correcciones serán necesarias a fin de verificar cada uno de los expedientes. 
