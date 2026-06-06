@@ -2,7 +2,7 @@
 title: "Error Material"
 description: "Una aproximación a la definición jurisprudencial del error material en el derecho procesal paraguayo"
 tags: ["derecho", "error", "procesal"]
-draft: false
+draft: true
 date: 2024-03-15
 ---
 
