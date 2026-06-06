@@ -40,7 +40,7 @@ En cada ocasión, la caracterización permanece substancialmente idéntica.
 
 ### Análisis conceptual
 
-Lo que emerge de esta jurisprudencia es una distinción clara: **el error material es un vicio en la dicción de la sentencia, no en su razonamiento**. El error reside en cómo se expresó la decisión, no en por qué se tomó.
+Lo que emerge de esta jurisprudencia es una distinción clara: **el error material es un vicio en la dicción de la sentencia, no en su razonamiento**. El error reside en cómo se expresó la decisión, no en la decisión misma.
 
 Esto tiene implicaciones procedimentales importantes. Un error material admite corrección sin volver a abrirse el debate porque no hay debate que reabrir: la voluntad del juzgador está intacta, solo su expresión fue defectuosa. En contraste, un error que afecta al razonamiento jurídico o a los hechos determinantes requiere un recurso de fondo.
 
